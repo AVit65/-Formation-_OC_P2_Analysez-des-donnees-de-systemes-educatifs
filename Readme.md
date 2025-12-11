@@ -1,17 +1,17 @@
-**Projet**
+📊 **Projet**
 
 Ce projet consiste à réaliser une analyse exploratoire d’un jeu de données sur l’éducation fourni par la Banque mondiale (EdStats All Indicator Query). L’objectif est d’évaluer la qualité et la pertinence de ces données et de déterminer si la start-up Academy proposant des contenus de formation en ligne pour un public lycéen et universitaire a intérêt à s'étendre à l'international.
 
-**Compétences évaluées**
+🎓 **Compétences évaluées**
 - Manipuler des données avec des librairies Python spécialisées
 - Mettre en place un environnement Python
 - Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
 - Effectuer une analyse univariée et des représentations graphiques avec une librairie
 - Maîtriser les opérations fondamentales du langage Python pour la Data Science
 
-**Architecture du repository**
+📂 **Architecture du repository**
 
-Note: les données ne sont pas inclues et doivent être téléchargés via le lien ci-dessous
+*Note*: les données ne sont pas inclues et doivent être téléchargés via le lien ci-dessous
 ```
 OC_P2_Analysez-des-donnees-de-systemes-educatifs/
 │
@@ -35,7 +35,7 @@ OC_P2_Analysez-des-donnees-de-systemes-educatifs/
 
 ```
 
-**Données**
+🗄️ **Données**
 
 Les tables de données brutes listées ci-dessous et utilisées dans le notebook d’analyse peuvent être téléchargées sur le [site de la Banque mondiale](https://datacatalog.worldbank.org/dataset/education-statistics):
 - EdStatsCountry
