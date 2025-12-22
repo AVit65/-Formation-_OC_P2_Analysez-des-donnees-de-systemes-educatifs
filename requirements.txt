@@ -1,0 +1,5 @@
+matplotlib==3.10.1
+missigno==0.5.2
+numpy==1.26.4
+pandas==2.3.1
+seaborn==0.13.2
